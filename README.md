@@ -13,7 +13,7 @@ From here, it autogenerates random names and posts for the database to have. Aft
 > Some of the interesting queries that we have introduced are:
 - For the commands: top-disliked-posts, top-liked-posts and top-ten-posts, we have used a Common Table Expression for getting the correct count of likes and dislikes to display each post.
 
-> Additional queries that we have included:
+> Additional queries included:
 - Displaying followers leaderboard
 - Displaying all mutual followers
 - Displaying all accounts
