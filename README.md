@@ -4,6 +4,10 @@
 
 > bash run.sh
 
+<p align="center">
+  <img src="example.png" alt="Demo" width=100%/>
+</p>
+
 # How It Works
 > Once running run.sh in the bash, 
 it creates the file information for:
